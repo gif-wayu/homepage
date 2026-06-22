@@ -16,7 +16,7 @@ h1 {
 
 /* リンクのデザイン */
 a {
-    color: #ff3366;            /* YouTubeリンクの色をピンク・赤系に */
+    color: #0000FF;            /* YouTubeリンクの色をピンク・赤系に */
     text-decoration: none;     /* リンクの下線を消す */
     font-weight: bold;         /* 文字を太字にする */
 }
