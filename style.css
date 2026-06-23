@@ -22,13 +22,3 @@ img {
     margin-top: 25px;
     border-radius: 10px;
 }
-
-.side-nav {
-    position: fixed;
-    top: 0px;
-    right:0px;
-    width: 100px;
-    background-color: #7E84F7;
-    padding-top: 40px;
-}
-
