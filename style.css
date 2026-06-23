@@ -24,7 +24,6 @@ a {
 /* 画像のデザイン */
 img {
     display: block;            /* 画像を独立したブロックにする */
-    width: 300px;              /* 横幅を300ピクセルにする */
     height: auto;              /* 縦横比を保つ */
     margin-top: 20px;          /* 上の文字との間に余白を作る */
     border-radius: 8px;        /* 画像の角を少し丸くする */
