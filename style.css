@@ -16,8 +16,8 @@ a {
 }
 
 img {
+    width: 500px;
     display: block;
-    width: 500px; 
     height: auto;
     margin-top: 25px;
     border-radius: 10px;
